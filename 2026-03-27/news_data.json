@@ -1,4 +1,32 @@
 [
-    {
-          "title": "OpenAI GPT-5.4 & Pro",
-          "summary": "
+      {
+              "title": "OpenAI GPT-5.4 & Pro",
+              "summary": "Official release with 1M tokens context and native computer use. Marks a shift towards fully agentic AI systems.",
+              "rating": 5,
+              "link": "https://blog.openai.com/gpt-5-4"
+      },
+      {
+              "title": "NVIDIA Vera Rubin",
+              "summary": "Next-gen architecture announced at GTC 2026, part of a $1 trillion AI infrastructure plan.",
+              "rating": 5,
+              "link": "https://nvidianews.nvidia.com/news/nvidia-gtc-2026-keynote-vera-rubin"
+      },
+      {
+              "title": "Xiaomi MiMo-V2-Pro",
+              "summary": "Open-source Mixture-of-Experts (MoE) model with 309 billion parameters for local high-end AI.",
+              "rating": 4,
+              "link": "https://github.com/Xiaomi/MiMo-V2-Pro"
+      },
+      {
+              "title": "Japanese Robotics Hub",
+              "summary": "Japanese government initiative to build global hubs for Physical AI and VLA model research.",
+              "rating": 5,
+              "link": "https://phys.org/japanese-government-aims-to-build-international-hubs-for-ai-robotics-rd/"
+      },
+      {
+              "title": "xAI Grok 4.20 Beta",
+              "summary": "Beta release featuring parallel processing with four independent agents for multitasking.",
+              "rating": 4,
+              "link": "https://x.ai/blog/grok-4.20"
+      }
+]
