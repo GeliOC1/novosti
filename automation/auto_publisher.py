@@ -73,6 +73,23 @@ def check_for_new_news():
         print("Новых новостей не обнаружено.")
     return newly_added
 
+def cleanup_old_folders():
+    print("Очистка старых папок с новостями...")
+    import re
+    from datetime import datetime
+    today_str = datetime.now().strftime('%Y-%m-%d')
+    date_pattern = re.compile(r'^\d{4}-\d{2}-\d{2}$')
+    
+    for folder in os.listdir(REPO_DIR):
+        folder_path = os.path.join(REPO_DIR, folder)
+        if os.path.isdir(folder_path) and date_pattern.match(folder):
+            if folder != today_str:
+                try:
+                    shutil.rmtree(folder_path)
+                    print(f"Удалена старая папка: {folder}")
+                except Exception as e:
+                    print(f"Не удалось удалить {folder}: {e}")
+
 def run_once():
     if not os.path.exists(QUEUE_FILE):
         return False
@@ -94,13 +111,6 @@ def run_once():
         with open(QUEUE_FILE, 'w', encoding='utf-8') as f:
             json.dump(remaining_queue, f, ensure_ascii=False, indent=2)
             
-        # Удаляем изображение
-        try:
-            if os.path.exists(post['image']):
-                os.remove(post['image'])
-                print(f"Файл удален: {post['image']}")
-        except:
-            pass
         return True
     else:
         print(f"ОШИБКА: {result}")
@@ -111,6 +121,7 @@ if __name__ == "__main__":
     parser.add_argument('--once', action='store_true', help='Запустить один раз и выйти')
     args = parser.parse_args()
 
+    cleanup_old_folders()
     check_for_new_news()
     
     if args.once:
