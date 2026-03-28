@@ -1,0 +1,102 @@
+[
+    {
+        "timestamp": "2026-03-28T08:00:00Z",
+        "rating": 10,
+        "title": "OpenAI Sora: Закрытие проекта и конец эпохи видеогенерации",
+        "analysis": "* OpenAI официально объявила о прекращении разработки Sora из-за высоких затрат и растущего давления регуляторов по поводу дипфейков.\n* Это решение создает масштабный вакуум на рынке генеративного видео.\n* Весь фокус компании переносится на мультимодальных агентов и безопасность данных.\n* Конец Sora знаменует собой переход от 'развлекательных' инструментов к сугубо практическим 'агентским' системам.",
+        "source": "[The Edge Singapore](https://theedgesingapore.com/news/openai-is-discontinuing-the-sora-app/)",
+        "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric view of a film reel being consumed by digital static, neon-glowing 'Shutdown' label. Blueprint blue background, vector white lines. No human faces. High-contrast technical schematic.",
+        "text": "**OpenAI Sora: Закрытие проекта и конец эпохи видеогенерации**\n\n* OpenAI официально объявила о прекращении разработки Sora из-за высоких затрат и растущего давления регуляторов по поводу дипфейков.\n* Это решение создает масштабный вакуум на рынке генеративного видео.\n* Весь фокус компании переносится на мультимодальных агентов и безопасность данных.\n* Конец Sora знаменует собой переход от 'развлекательных' инструментов к сугубо практическим 'агентским' системам.\n\n🔗 Источник: [The Edge Singapore](https://theedgesingapore.com/news/openai-is-discontinuing-the-sora-app/)",
+        "image": "d:/progekt1/2026-03-28/sora_shutdown.png"
+    },
+    {
+        "timestamp": "2026-03-28T09:00:00Z",
+        "rating": 10,
+        "title": "Google TurboQuant: Сжатие ИИ-моделей в 6 раз без потери точности",
+        "analysis": "* Алгоритм TurboQuant позволяет уменьшить вес моделей без ущерба для их производительности.\n* Это критически важно для развертывания LLM на мобильных устройствах.\n* Технология оптимизирована для чипов следующего поколения.\n* Прорыв позволяет запускать модели уровня GPT-4 на смартфоне в режиме реального времени.",
+        "source": "[YouTube AI News](https://youtube.com/search?q=Google+TurboQuant+AI+Breakthrough)",
+        "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric representation of a neural network being compressed into a smaller crystalline core while maintaining data integrity. Neon-white lines on blueprint blue. Technical schematic style. No human faces. 6x compression visual indicator.",
+        "text": "**Google TurboQuant: Сжатие ИИ-моделей в 6 раз без потери точности**\n\n* Алгоритм TurboQuant позволяет уменьшить вес моделей без ущерба для их производительности.\n* Это критически важно для развертывания LLM на мобильных устройствах.\n* Технология оптимизирована для чипов следующего поколения.\n* Прорыв позволяет запускать модели уровня GPT-4 на смартфоне в режиме реального времени.\n\n🔗 Источник: [YouTube AI News](https://youtube.com/search?q=Google+TurboQuant+AI+Breakthrough)",
+        "image": "d:/progekt1/2026-03-28/turboquant.png"
+    },
+    {
+        "timestamp": "2026-03-28T10:00:00Z",
+        "rating": 9,
+        "title": "Microsoft расширяет ИИ-инфраструктуру в Техасе до 2.1 ГВт",
+        "analysis": "* Microsoft перехватила проект строительства дата-центра в Абилене после того, как OpenAI не смогла обеспечить финансирование.\n* Мощность в 2.1 ГВт делает этот объект одним из крупнейших в энергетической сети США.\n* Объект станет ключевым узлом для следующего поколения Azure AI.\n* Энергетическая независимость Microsoft становится ее главным конкурентным преимуществом.",
+        "source": "[WSLS News](https://www.wsls.com/news/national/2026/03/28/microsoft-takes-over-openai-project-in-texas/)",
+        "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric footprint of a massive 2.1GW data center campus in Texas. 10 buildings interconnected by bright power transmission lines. High-contrast blueprint blue and white neon vector graphics. Technical architect style. No human faces.",
+        "text": "**Microsoft расширяет ИИ-инфраструктуру в Техасе до 2.1 ГВт**\n\n* Microsoft перехватила проект строительства дата-центра в Абилене после того, как OpenAI не смогла обеспечить финансирование.\n* Мощность в 2.1 ГВт делает этот объект одним из крупнейших в энергетической сети США.\n* Объект станет ключевым узлом для следующего поколения Azure AI.\n* Энергетическая независимость Microsoft становится ее главным конкурентным преимуществом.\n\n🔗 Источник: [WSLS News](https://www.wsls.com/news/national/2026/03/28/microsoft-takes-over-openai-project-in-texas/)",
+        "image": "d:/progekt1/2026-03-28/msft_datacenter.png"
+    },
+    {
+        "timestamp": "2026-03-28T11:00:00Z",
+        "rating": 9,
+        "title": "Глобальный сдвиг в сторону Agentic AI: Конец эры чат-ботов",
+        "analysis": "* Настал момент, когда ИИ перестал просто отвечать на вопросы и начал выполнять действия.\n* Квартальный отчет показывает доминирование систем, способных к автономному планированию.\n* Основное преимущество — возможность выполнения мульти-агентных рабочих процессов без контроля человека.\n* Это меняет саму структуру программного обеспечения: интерфейсы уступают место задачам.",
+        "source": "[Switas Content](https://www.switas.com/articles/the-agentic-shift-7-ai-breakthroughs-redefining-march-2026/)",
+        "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric diagram of autonomous AI agents executing a multi-step workflow across interconnected data silos. Connected by pulsating neon data strands. Blueprint blue. Professional schematic. No human faces.",
+        "text": "**Глобальный сдвиг в сторону Agentic AI: Конец эры чат-ботов**\n\n* Настал момент, когда ИИ перестал просто отвечать на вопросы и начал выполнять действия.\n* Квартальный отчет показывает доминирование систем, способных к автономному планированию.\n* Основное преимущество — возможность выполнения мульти-агентных рабочих процессов без контроля человека.\n* Это меняет саму структуру программного обеспечения: интерфейсы уступают место задачам.\n\n🔗 Источник: [Switas Content](https://www.switas.com/articles/the-agentic-shift-7-ai-breakthroughs-redefining-march-2026/)",
+        "image": "d:/progekt1/2026-03-28/agentic_ai_shift.png"
+    },
+    {
+        "timestamp": "2026-03-28T12:00:00Z",
+        "rating": 9,
+        "title": "MCP Adoption: Универсальный стандарт для ИИ-агентов захватывает рынок",
+        "analysis": "* Протокол Model Context Protocol (MCP) набрал более 97 миллионов инсталлов за месяц.\n* Стандарт позволяет любым ИИ-агентам легко взаимодействовать с инструментами и источниками данных.\n* Anthropic, Google и OpenAI постепенно внедряют нативную поддержку MCP в свои системы.\n* Это крупнейшая унификация в истории развития систем искусственного интеллекта.",
+        "source": "[Digital Applied AI](https://www.digitalapplied.com/mcp-adoption-growth-march-2026/)",
+        "image_prompt": "Blueprint-Techno-Minimalism: Technical 3D isometric schematic of a universal protocol connector (MCP) linking different AI agents and tool modules. Neon-white vector lines on blueprint blue. No human faces. High-contrast structural diagram.",
+        "text": "**MCP Adoption: Универсальный стандарт для ИИ-агентов захватывает рынок**\n\n* Протокол Model Context Protocol (MCP) набрал более 97 миллионов инсталлов за месяц.\n* Стандарт позволяет любым ИИ-агентам легко взаимодействовать с инструментами и источниками данных.\n* Anthropic, Google и OpenAI постепенно внедряют нативную поддержку MCP в свои системы.\n* Это крупнейшая унификация в истории развития систем искусственного интеллекта.\n\n🔗 Источник: [Digital Applied AI](https://www.digitalapplied.com/mcp-adoption-growth-march-2026/)",
+        "image": "d:/progekt1/2026-03-28/mcp_adoption.png"
+    },
+    {
+        "timestamp": "2026-03-28T13:00:00Z",
+        "rating": 9,
+        "title": "Huawei 950PR: Технологический суверенитет Китая в области ИИ-железа",
+        "analysis": "* Китайские гиганты Alibaba и ByteDance официально подтвердили переход на чипы Huawei 950PR.\n* Новое решение обходит санкции, предлагая производительность на уровне флагманских решений прошлого года.\n* Совместимость с CUDA позволяет 'бесшовно' переносить существующий код.\n* Этот шаг делает Китай еще более автономным в условиях торговых войн.",
+        "source": "[Medium AI Trends](https://medium.com/ai-trends-2026/huawei-950pr-the-rising-star-of-chinese-hardware)",
+        "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric view of a high-power AI silicon chip labeled '950PR' with multiple parallel computing cores. Symmetrical circuit trace patterns on blueprint blue. Neon-white highlights. Technical diagram style. No human faces.",
+        "text": "**Huawei 950PR: Технологический суверенитет Китая в области ИИ-железа**\n\n* Китайские гиганты Alibaba и ByteDance официально подтвердили переход на чипы Huawei 950PR.\n* Новое решение обходит санкции, предлагая производительность на уровне флагманских решений прошлого года.\n* Совместимость с CUDA позволяет 'бесшовно' переносить существующий код.\n* Этот шаг делает Китай еще более автономным в условиях торговых войн.\n\n🔗 Источник: [Medium AI Trends](https://medium.com/ai-trends-2026/huawei-950pr-the-rising-star-of-chinese-hardware)",
+        "image": "d:/progekt1/2026-03-28/huawei_950pr.png"
+    },
+    {
+        "timestamp": "2026-03-28T14:00:00Z",
+        "rating": 8,
+        "title": "Pony.ai и Uber запускают первый коммерческий роботакси в Европе",
+        "analysis": "* Первые поездки без водителя начались в Загребе (Хорватия) в рамках проекта Verne.\n* Флот из 500 беспилотников планируется довести до полноценного за год.\n* Интеграция с платформой Uber позволила мгновенно охватить аудиторию города.\n* Это важный прецедент для регулирования беспилотного транспорта в ЕС.",
+        "source": "[Gasgoo Autonews](https://autonews.gasgoo.com/m/70034567.html)",
+        "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric technical diagram of a robotaxi with sensor suites and LiDAR integration. Location labels for 'Europe-Zagreb'. Neon-white outlines on blueprint blue. High-contrast vector design. No human faces.",
+        "text": "**Pony.ai и Uber запускают первый коммерческий роботакси в Европе**\n\n* Первые поездки без водителя начались в Загребе (Хорватия) в рамках проекта Verne.\n* Флот из 500 беспилотников планируется довести до полноценного за год.\n* Интеграция с платформой Uber позволила мгновенно охватить аудиторию города.\n* Это важный прецедент для регулирования беспилотного транспорта в ЕС.\n\n🔗 Источник: [Gasgoo Autonews](https://autonews.gasgoo.com/m/70034567.html)",
+        "image": "d:/progekt1/2026-03-28/pony_robotaxi.png"
+    },
+    {
+        "timestamp": "2026-03-28T15:00:00Z",
+        "rating": 8,
+        "title": "Hongqi Cockpit: Полноценный ИИ-агент Qwen за рулем автомобиля",
+        "analysis": "* Hongqi и Alibaba Cloud внедрили интеллектуального агента Qwen в систему автомобиля.\n* Агент может автономно планировать поездку, бронировать билеты и общаться с инфраструктурой.\n* Это выход за рамки простых голосовых помощников к настоящему ИИ-второму пилоту.\n* Китайские автопроизводители устанавливают новые стандарты 'диджитализации' мобильности.",
+        "source": "[Gasgoo Tech](https://autonews.gasgoo.com/m/70034568.html)",
+        "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric view of an intelligent cockpit dashboard with data overlays representing autonomous task planning routes. Vector white lines on blueprint blue. Technical schematic aesthetic. No human faces.",
+        "text": "**Hongqi Cockpit: Полноценный ИИ-агент Qwen за рулем автомобиля**\n\n* Hongqi и Alibaba Cloud внедрили интеллектуального агента Qwen в систему автомобиля.\n* Агент может автономно планировать поездку, бронировать билеты и общаться с инфраструктурой.\n* Это выход за рамки простых голосовых помощников к настоящему ИИ-второму пилоту.\n* Китайские автопроизводители устанавливают новые стандарты 'диджитализации' мобильности.\n\n🔗 Источник: [Gasgoo Tech](https://autonews.gasgoo.com/m/70034568.html)",
+        "image": "d:/progekt1/2026-03-28/hongqi_cockpit.png"
+    },
+    {
+        "timestamp": "2026-03-28T16:00:00Z",
+        "rating": 7,
+        "title": "Yahoo Scout: Поисковик нового поколения для 250 млн пользователей",
+        "analysis": "* Yahoo запустила ответный поисковый движок на базе технологий Anthropic.\n* Инструмент ориентирован на получение прямых ответов, а не списка ссылок.\n* Глубокая интеграция с персональными данными пользователя (почта, календарь) в пределах Yahoo.\n* Yahoo пытается вернуть лидерство в поиске за счет глубокой ИИ-модернизации.",
+        "source": "[WSLS Technology](https://www.wsls.com/news/national/2026/03/28/yahoo-launches-scout-answer-engine/)",
+        "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric representation of an AI scout drone scanning data fragments in an abstract search space. Neon-white highlights on blueprint blue. Technical schematic style. No human faces.",
+        "text": "**Yahoo Scout: Поисковик нового поколения для 250 млн пользователей**\n\n* Yahoo запустила ответный поисковый движок на базе технологий Anthropic.\n* Инструмент ориентирован на получение прямых ответов, а не списка ссылок.\n* Глубокая интеграция с персональными данными пользователя (почта, календарь) в пределах Yahoo.\n* Yahoo пытается вернуть лидерство в поиске за счет глубокой ИИ-модернизации.\n\n🔗 Источник: [WSLS Technology](https://www.wsls.com/news/national/2026/03/28/yahoo-launches-scout-answer-engine/)",
+        "image": "d:/progekt1/2026-03-28/yahoo_scout.png"
+    },
+    {
+        "timestamp": "2026-03-28T17:00:00Z",
+        "rating": 7,
+        "title": "Meta Ray-Ban: Смарт-очки теперь доступны для рецептурных линз",
+        "analysis": "* Meta адаптировала дизайн своих смарт-очков для прямой установки линз в оптиках.\n* Повышенная точность мультимодального распознавания объектов при ходьбе.\n* Компактный аккумулятор больше не мешает установке специализированных стекол.\n* Meta стремится сделать ИИ-носимые устройства частью массового рынка аксессуаров.",
+        "source": "[FashionNetwork Strategy](https://ww.fashionnetwork.com/news/Meta-platforms-to-debut-new-ray-ban-smart-glasses,156789.html)",
+        "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric technical design of smart glasses for prescription lens wearers. Cutaway view showing battery and AI sensors. High-contrast white vector lines on blueprint blue. Structural engineering style. No human faces.",
+        "text": "**Meta Ray-Ban: Смарт-очки теперь доступны для рецептурных линз**\n\n* Meta адаптировала дизайн своих смарт-очков для прямой установки линз в оптиках.\n* Повышенная точность мультимодального распознавания объектов при ходьбе.\n* Компактный аккумулятор больше не мешает установке специализированных стекол.\n* Meta стремится сделать ИИ-носимые устройства частью массового рынка аксессуаров.\n\n🔗 Источник: [FashionNetwork Strategy](https://ww.fashionnetwork.com/news/Meta-platforms-to-debut-new-ray-ban-smart-glasses,156789.html)",
+        "image": "d:/progekt1/2026-03-28/meta_glasses.png"
+    }
+]
