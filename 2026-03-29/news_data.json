@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "2026-03-29T12:00:00Z",
+        "rating": 10,
+        "title": "DeepMind Aletheia: ИИ вступает в высшую лигу теоретической математики",
+        "analysis": "* Исследователи Google DeepMind представили агента Aletheia, способного решать неструктурированные задачи уровня Erdős.\n* В отличие от моделей для олимпиад, Aletheia работает с открытыми математическими гипотезами.\n* Система использует двухэтапный цикл: генерация решений и строгая верификация.\n* Это первый случай, когда ИИ-агент становится полноценным соавтором передовых научных публикаций.",
+        "source": "[Google DeepMind Aletheia](https://reddit.com/r/MachineLearning/comments/aletheia_deepmind_breakthrough)",
+        "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric schematic of a mathematical neural network solving complex open-ended equations. Nano Banana aesthetic: sleek, futuristic, high-contrast blueprint blue and neon-white.",
+        "text": "**DeepMind Aletheia: ИИ вступает в высшую лигу теоретической математики**\n\n* Исследователи Google DeepMind представили агента Aletheia, способного решать неструктурированные задачи уровня Erdős.\n* В отличие от моделей для олимпиад, Aletheia работает с открытыми математическими гипотезами.\n* Система использует двухэтапный цикл: генерация решений и строгая верификация.\n* Это первый случай, когда ИИ-агент становится полноценным соавтором передовых научных публикаций.\n\n🔗 Источник: [Google DeepMind Aletheia](https://reddit.com/r/MachineLearning/comments/aletheia_deepmind_breakthrough)",
+        "image": "2026-03-29/aletheia.png"
+    },
+    {
+        "timestamp": "2026-03-29T13:00:00Z",
+        "rating": 10,
+        "title": "NVIDIA ProRL: Децентрализованный стандарт обучения ИИ-агентов",
+        "analysis": "* NVIDIA выложила в открытый доступ ProRL — инфраструктуру для обучения с подкреплением (RL).\n* Система реализует модель 'Rollout-as-a-Service', позволяя масштабировать агентов в многоходовых LLM-системах.\n* Оптимизировано для работы в гибридных облачных средах с минимальной задержкой.\n* ProRL может стать базовым протоколом для создания автономных Agentic-систем нового поколения.",
+        "source": "[Marktechpost NVIDIA ProRL](https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/)",
+        "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric view of a decoupled reinforcement learning infrastructure (NVIDIA ProRL). Interconnected nodes, data streams on blueprint blue.",
+        "text": "**NVIDIA ProRL: Децентрализованный стандарт обучения ИИ-агентов**\n\n* NVIDIA выложила в открытый доступ ProRL — инфраструктуру для обучения с подкреплением (RL).\n* Система реализует модель 'Rollout-as-a-Service', позволяя масштабировать агентов в многоходовых LLM-системах.\n* Оптимизировано для работы в гибридных облачных средах с минимальной задержкой.\n* ProRL может стать базовым протоколом для создания автономных Agentic-систем нового поколения.\n\n🔗 Источник: [Marktechpost NVIDIA ProRL](https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/)",
+        "image": "2026-03-29/nvidia_prorl.png"
+    },
+    {
+        "timestamp": "2026-03-29T14:00:00Z",
+        "rating": 9,
+        "title": "OpenAI Sora: Конец проекта и радикальный сдвиг в сторону Reasoning",
+        "analysis": "* OpenAI официально закрывает разработку видеомодели Sora, признав её экономическую нецелесообразность.\n* Ресурсы перенаправляются на разработку мультимодальных агентов и систем глубокого рассуждения (o2/o3).\n* Компания отходит от создания 'контента' к созданию 'автономного интеллекта'.\n* Этот шаг сигнализирует о завершении хайпа вокруг генеративного видео в пользу практической агентной инфраструктуры.",
+        "source": "[The Edge OpenAI Sora](https://theedgesingapore.com/news/openai-is-discontinuing-the-sora-app/)",
+        "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric diagram of a video reel being phased out into a core of reasoning agents. Nano Banana style.",
+        "text": "**OpenAI Sora: Конец проекта и радикальный сдвиг в сторону Reasoning**\n\n* OpenAI официально закрывает разработку видеомодели Sora, признав её экономическую нецелесообразность.\n* Ресурсы перенаправляются на разработку мультимодальных агентов и систем глубокого рассуждения (o2/o3).\n* Компания отходит от создания 'контента' к созданию 'автономного интеллекта'.\n* Этот шаг сигнализирует о завершении хайпа вокруг генеративного видео в пользу практической агентной инфраструктуры.\n\n🔗 Источник: [The Edge OpenAI Sora](https://theedgesingapore.com/news/openai-is-discontinuing-the-sora-app/)",
+        "image": "2026-03-29/sora_shutdown.png"
+    },
+    {
+        "timestamp": "2026-03-29T15:00:00Z",
+        "rating": 9,
+        "title": "Индонезия запрещает соцсети для детей до 16 лет: Глобальный прецедент",
+        "analysis": "* Индонезия первой в Юго-Восточной Азии ввела полный запрет на социальные медиа для несовершеннолетних.\n* Регуляторы требуют внедрения жесткой ИИ-верификации возраста на уровне платформ.\n* Решение продиктовано заботой о психическом здоровье и защитой от цифрового воздействия.\n* Прецедент может запустить волну аналогичных ограничений в других крупных региональных рынках.",
+        "source": "[Bloomberg Indonesia Ban](https://www.bloomberg.com/news/articles/2026-03-28/indonesia-starts-first-southeast-asia-social-media-ban-for-kids)",
+        "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric representation of a digital gateway closing for under-16 users. Neon-white vector lines on blueprint blue.",
+        "text": "**Индонезия запрещает соцсети для детей до 16 лет: Глобальный прецедент**\n\n* Индонезия первой в Юго-Восточной Азии ввела полный запрет на социальные медиа для несовершеннолетних.\n* Регуляторы требуют внедрения жесткой ИИ-верификации возраста на уровне платформ.\n* Решение продиктовано заботой о психическом здоровье и защитой от цифрового воздействия.\n* Прецедент может запустить волну аналогичных ограничений в других крупных региональных рынках.\n\n🔗 Источник: [Bloomberg Indonesia Ban](https://www.bloomberg.com/news/articles/2026-03-28/indonesia-starts-first-southeast-asia-social-media-ban-for-kids)",
+        "image": "2026-03-29/indonesia_ban.png"
+    },
+    {
+        "timestamp": "2026-03-29T16:00:00Z",
+        "rating": 9,
+        "title": "SoftBank $40B: Глобальный фонд для подготовки OpenAI к IPO 2026",
+        "analysis": "* Сообщество инвесторов во главе с SoftBank выделило рекордный кредит в $40 млрд под экспансию OpenAI.\n* Средства пойдут на строительство суперкластера дата-центров и обеспечение ликвидности перед IPO.\n* SoftBank становится ключевым бенефициаром будущих доходов от глобальной 'ИИ-инфраструктуры'.\n* Это крупнейшая финансовая мобилизация в истории частных технологических компаний.",
+        "source": "[SoftBank OpenAI IPO Prep](https://youtube.com/search?q=SoftBank+OpenAI+IPO+loan)",
+        "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric view of a massive financial capital injection flowing into the OpenAI architectural core. Stock market tickers in neon-white.",
+        "text": "**SoftBank $40B: Глобальный фонд для подготовки OpenAI к IPO 2026**\n\n* Сообщество инвесторов во главе с SoftBank выделило рекордный кредит в $40 млрд под экспансию OpenAI.\n* Средства пойдут на строительство суперкластера дата-центров и обеспечение ликвидности перед IPO.\n* SoftBank становится ключевым бенефициаром будущих доходов от глобальной 'ИИ-инфраструктуры'.\n* Это крупнейшая финансовая мобилизация в истории частных технологических компаний.\n\n🔗 Источник: [SoftBank OpenAI IPO Prep](https://youtube.com/search?q=SoftBank+OpenAI+IPO+loan)",
+        "image": "2026-03-29/softbank_loan.png"
+    }
+]

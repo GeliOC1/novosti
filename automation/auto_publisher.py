@@ -57,7 +57,9 @@ def check_for_new_news():
                         
                         queue.append({
                             "text": news['text'],
-                            "image": full_img_path
+                            "image": full_img_path,
+                            "source_file": news_data_path,
+                            "original_news_link": news.get('source', '')
                         })
                         existing_texts.append(news['text'])
                         newly_added += 1
@@ -107,6 +109,28 @@ def run_once():
     
     if result.get('ok'):
         print(f"УСПЕХ: message_id {result['result']['message_id']}")
+        
+        # Удаление статьи из исходного файла news_data.json
+        source_file = post.get('source_file')
+        if source_file and os.path.exists(source_file):
+            try:
+                with open(source_file, 'r', encoding='utf-8') as f:
+                    source_data = json.load(f)
+                
+                # Фильтруем данные, удаляя уже опубликованную новость
+                updated_source_data = [item for item in source_data if item['text'] != post['text']]
+                
+                if updated_source_data:
+                    with open(source_file, 'w', encoding='utf-8') as f:
+                        json.dump(updated_source_data, f, ensure_ascii=False, indent=2)
+                else:
+                    # Если папка пуста, удаляем её
+                    parent_dir = os.path.dirname(source_file)
+                    shutil.rmtree(parent_dir)
+                    print(f"Папка {parent_dir} удалена, так как все новости опубликованы.")
+            except Exception as e:
+                print(f"Ошибка при удалении статьи из источника: {e}")
+
         remaining_queue = queue[1:]
         with open(QUEUE_FILE, 'w', encoding='utf-8') as f:
             json.dump(remaining_queue, f, ensure_ascii=False, indent=2)
