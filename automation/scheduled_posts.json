@@ -1,11 +1,5 @@
 [
   {
-    "text": "**OpenAI Sora: Конец проекта и радикальный сдвиг в сторону Reasoning**\n\n* OpenAI официально закрывает разработку видеомодели Sora, признав её экономическую нецелесообразность.\n* Ресурсы перенаправляются на разработку мультимодальных агентов и систем глубокого рассуждения (o2/o3).\n* Компания отходит от создания 'контента' к созданию 'автономного интеллекта'.\n* Этот шаг сигнализирует о завершении хайпа вокруг генеративного видео в пользу практической агентной инфраструктуры.\n\n🔗 Источник: [BBC News: OpenAI Sora Shutdown](https://www.bbc.com/news/articles/c3w3e467ewqo)",
-    "image": "/home/runner/work/novosti/novosti/2026-03-29/sora_shutdown.png",
-    "source_file": "/home/runner/work/novosti/novosti/2026-03-29/news_data.json",
-    "original_news_link": "[BBC News: OpenAI Sora Shutdown](https://www.bbc.com/news/articles/c3w3e467ewqo)"
-  },
-  {
     "text": "**SoftBank $40B: Глобальный фонд для подготовки OpenAI к IPO 2026**\n\n* Сообщество инвесторов во главе с SoftBank выделило рекордный кредит в $40 млрд под экспансию OpenAI.\n* Средства пойдут на строительство суперкластера дата-центров и обеспечение ликвидности перед IPO.\n* SoftBank становится ключевым бенефициаром будущих доходов от глобальной 'ИИ-инфраструктуры'.\n* Это крупнейшая финансовая мобилизация в истории частных технологических компаний.\n\n🔗 Источник: [TechCrunch: SoftBank OpenAI IPO Prep](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/)",
     "image": "/home/runner/work/novosti/novosti/2026-03-29/softbank_loan.png",
     "source_file": "/home/runner/work/novosti/novosti/2026-03-29/news_data.json",
