@@ -64,5 +64,11 @@
     "image": "/home/runner/work/novosti/novosti/2026-03-29/softbank_loan.png",
     "source_file": "/home/runner/work/novosti/novosti/2026-03-29/news_data.json",
     "original_news_link": "[SoftBank OpenAI IPO Prep](https://youtube.com/search?q=SoftBank+OpenAI+IPO+loan)"
+  },
+  {
+    "text": "**DeepMind Aletheia: ИИ вступает в высшую лигу теоретической математики**\n\n* Исследователи Google DeepMind представили агента Aletheia, способного решать неструктурированные задачи уровня Erdős.\n* В отличие от моделей для олимпиад, Aletheia работает с открытыми математическими гипотезами.\n* Система использует двухэтапный цикл: генерация решений и строгая верификация.\n* Это первый случай, когда ИИ-агент становится полноценным соавтором передовых научных публикаций.\n\n🔗 Источник: [Google DeepMind Aletheia](https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/)",
+    "image": "/home/runner/work/novosti/novosti/2026-03-29/aletheia.png",
+    "source_file": "/home/runner/work/novosti/novosti/2026-03-29/news_data.json",
+    "original_news_link": "[Google DeepMind Aletheia](https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/)"
   }
 ]
