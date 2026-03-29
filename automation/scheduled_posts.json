@@ -1,11 +1,5 @@
 [
   {
-    "text": "**Индонезия запрещает соцсети для детей до 16 лет: Глобальный прецедент**\n\n* Индонезия первой в Юго-Восточной Азии ввела полный запрет на социальные медиа для несовершеннолетних.\n* Регуляторы требуют внедрения жесткой ИИ-верификации возраста на уровне платформ.\n* Решение продиктовано заботой о психическом здоровье и защитой от цифрового воздействия.\n* Прецедент может запустить волну аналогичных ограничений в других крупных региональных рынках.\n\n🔗 Источник: [Bloomberg Indonesia Ban](https://www.bloomberg.com/news/articles/2026-03-28/indonesia-starts-first-southeast-asia-social-media-ban-for-kids)",
-    "image": "/home/runner/work/novosti/novosti/2026-03-29/indonesia_ban.png",
-    "source_file": "/home/runner/work/novosti/novosti/2026-03-29/news_data.json",
-    "original_news_link": "[Bloomberg Indonesia Ban](https://www.bloomberg.com/news/articles/2026-03-28/indonesia-starts-first-southeast-asia-social-media-ban-for-kids)"
-  },
-  {
     "text": "**SoftBank $40B: Глобальный фонд для подготовки OpenAI к IPO 2026**\n\n* Сообщество инвесторов во главе с SoftBank выделило рекордный кредит в $40 млрд под экспансию OpenAI.\n* Средства пойдут на строительство суперкластера дата-центров и обеспечение ликвидности перед IPO.\n* SoftBank становится ключевым бенефициаром будущих доходов от глобальной 'ИИ-инфраструктуры'.\n* Это крупнейшая финансовая мобилизация в истории частных технологических компаний.\n\n🔗 Источник: [TechCrunch: SoftBank OpenAI IPO Prep](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/)",
     "image": "/home/runner/work/novosti/novosti/2026-03-29/softbank_loan.png",
     "source_file": "/home/runner/work/novosti/novosti/2026-03-29/news_data.json",
@@ -16,5 +10,11 @@
     "image": "/home/runner/work/novosti/novosti/2026-03-29/aletheia.png",
     "source_file": "/home/runner/work/novosti/novosti/2026-03-29/news_data.json",
     "original_news_link": "[Google DeepMind Aletheia](https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/)"
+  },
+  {
+    "text": "**OpenAI Sora: Конец проекта и радикальный сдвиг в сторону Reasoning**\n\n* OpenAI официально закрывает разработку видеомодели Sora, признав её экономическую нецелесообразность.\n* Ресурсы перенаправляются на разработку мультимодальных агентов и систем глубокого рассуждения (o2/o3).\n* Компания отходит от создания 'контента' к созданию 'автономного интеллекта'.\n* Этот шаг сигнализирует о завершении хайпа вокруг генеративного видео в пользу практической агентной инфраструктуры.\n\n🔗 Источник: [BBC News: OpenAI Sora Shutdown](https://www.bbc.com/news/articles/c3w3e467ewqo)",
+    "image": "/home/runner/work/novosti/novosti/2026-03-29/sora_shutdown.png",
+    "source_file": "/home/runner/work/novosti/novosti/2026-03-29/news_data.json",
+    "original_news_link": "[BBC News: OpenAI Sora Shutdown](https://www.bbc.com/news/articles/c3w3e467ewqo)"
   }
 ]
