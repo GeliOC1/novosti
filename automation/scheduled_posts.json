@@ -1,11 +1,5 @@
 [
   {
-    "text": "**OpenAI Sora: Конец проекта и радикальный сдвиг в сторону Reasoning**\n\n* OpenAI официально закрывает разработку видеомодели Sora, признав её экономическую нецелесообразность.\n* Ресурсы перенаправляются на разработку мультимодальных агентов и систем глубокого рассуждения (o2/o3).\n* Компания отходит от создания 'контента' к созданию 'автономного интеллекта'.\n* Этот шаг сигнализирует о завершении хайпа вокруг генеративного видео в пользу практической агентной инфраструктуры.\n\n🔗 Источник: [BBC News: OpenAI Sora Shutdown](https://www.bbc.com/news/articles/c3w3e467ewqo)",
-    "image": "/home/runner/work/novosti/novosti/2026-03-29/sora_shutdown.png",
-    "source_file": "/home/runner/work/novosti/novosti/2026-03-29/news_data.json",
-    "original_news_link": "[BBC News: OpenAI Sora Shutdown](https://www.bbc.com/news/articles/c3w3e467ewqo)"
-  },
-  {
     "text": "**Индонезия запрещает соцсети для детей до 16 лет: Глобальный прецедент**\n\n* Индонезия первой в Юго-Восточной Азии ввела полный запрет на социальные медиа для несовершеннолетних.\n* Регуляторы требуют внедрения жесткой ИИ-верификации возраста на уровне платформ.\n* Решение продиктовано заботой о психическом здоровье и защитой от цифрового воздействия.\n* Прецедент может запустить волну аналогичных ограничений в других крупных региональных рынках.\n\n🔗 Источник: [Bloomberg Indonesia Ban](https://www.bloomberg.com/news/articles/2026-03-28/indonesia-starts-first-southeast-asia-social-media-ban-for-kids)",
     "image": "/home/runner/work/novosti/novosti/2026-03-29/indonesia_ban.png",
     "source_file": "/home/runner/work/novosti/novosti/2026-03-29/news_data.json",
