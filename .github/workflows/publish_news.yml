@@ -21,7 +21,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests google-genai
+          pip install requests google-genai python-dotenv
 
       - name: Run Publisher
         env:

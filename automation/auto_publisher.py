@@ -4,10 +4,14 @@ import time
 import os
 import shutil
 import argparse
+from dotenv import load_dotenv
+
+# Загрузка переменных из .env (предполагаем, что .env в корне d:/progekt1)
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '..', '.env'))
 
 # Настройки (через переменные окружения для GitHub Actions или значения по умолчанию)
-BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', '8488878358:AAGSqOTwvQ_FbW92gsgghq6FkThwzQVPK4w')
-CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID', '-1002337210896')
+BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN')
+CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
 REPO_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 QUEUE_FILE = os.environ.get('QUEUE_FILE', os.path.join(REPO_DIR, 'automation', 'scheduled_posts.json'))
 INTERVAL = 3600  # 1 час

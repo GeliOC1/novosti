@@ -2,9 +2,13 @@ import requests
 import time
 import os
 import sys
+from dotenv import load_dotenv
+
+# Загрузка переменных из .env (предполагаем, что .env в корне d:/progekt1)
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '..', '.env'))
 
 # Настройки через переменные окружения
-BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', '8488878358:AAGSqOTwvQ_FbW92gsgghq6FkThwzQVPK4w')
+BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN')
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 # Импорт локального генератора
