@@ -1,15 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30T13:00:00Z",
-    "rating": 9,
-    "title": "Apple и Google заключили историческое соглашение в сфере ИИ",
-    "analysis": "* Apple и Google заключили многолетнее соглашение об интеграции ИИ-моделей Gemini в программное обеспечение Apple, включая обновленную версию Siri [4].\n* После тщательного анализа Apple признала технологии Google наиболее подходящей основой для своих базовых моделей Foundation [5].\n* На фоне данной новости акции Alphabet выросли, и рыночная капитализация компании превысила историческую отметку в 4 триллиона долларов [6].\n* Данный шаг нанес серьезный удар по позициям OpenAI, так как пользователи начинают воспринимать Gemini как более совершенную модель [7].",
-    "source": "[Forbes India](https://www.forbesindia.com/article/news/apple-google-deal-consequences-for-companies-founders-competitors-and-users/2990369/1)",
-    "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric representation of a smartphone syncing with a cloud network. Nano Banana aesthetic: sleek, futuristic, high-contrast blueprint blue and neon-white.",
-    "text": "**Apple и Google заключили историческое соглашение в сфере ИИ**\n\n* Apple и Google заключили многолетнее соглашение об интеграции ИИ-моделей Gemini в программное обеспечение Apple, включая обновленную версию Siri [4].\n* После тщательного анализа Apple признала технологии Google наиболее подходящей основой для своих базовых моделей Foundation [5].\n* На фоне данной новости акции Alphabet выросли, и рыночная капитализация компании превысила историческую отметку в 4 триллиона долларов [6].\n* Данный шаг нанес серьезный удар по позициям OpenAI, так как пользователи начинают воспринимать Gemini как более совершенную модель [7].\n\n🔗 Источник: [Forbes India](https://www.forbesindia.com/article/news/apple-google-deal-consequences-for-companies-founders-competitors-and-users/2990369/1)",
-    "image": "2026-03-30/apple_google_deal.png"
-  },
-  {
     "timestamp": "2026-03-30T14:00:00Z",
     "rating": 9,
     "title": "NVIDIA расширяет семейства открытых ИИ-моделей",

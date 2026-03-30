@@ -1,50 +1,20 @@
 [
   {
-    "text": "**NVIDIA ProRL: Децентрализованный стандарт обучения ИИ-агентов**\n\n* NVIDIA выложила в открытый доступ ProRL — инфраструктуру для обучения с подкреплением (RL).\n* Система реализует модель 'Rollout-as-a-Service', позволяя масштабировать агентов в многоходовых LLM-системах.\n* Оптимизировано для работы в гибридных облачных средах с минимальной задержкой.\n* ProRL может стать базовым протоколом для создания автономных Agentic-систем нового поколения.\n\n🔗 Источник: [Marktechpost NVIDIA ProRL](https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/)",
-    "image": "D:\\progekt1\\novosti_temp\\2026-03-29\\nvidia_prorl.png",
-    "source_file": "D:\\progekt1\\novosti_temp\\2026-03-29\\news_data.json",
-    "original_news_link": "[Marktechpost NVIDIA ProRL](https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/)"
-  },
-  {
-    "text": "**OpenAI Sora: Конец проекта и радикальный сдвиг в сторону Reasoning**\n\n* OpenAI официально закрывает разработку видеомодели Sora, признав её экономическую нецелесообразность.\n* Ресурсы перенаправляются на разработку мультимодальных агентов и систем глубокого рассуждения (o2/o3).\n* Компания отходит от создания 'контента' к созданию 'автономного интеллекта'.\n* Этот шаг сигнализирует о завершении хайпа вокруг генеративного видео в пользу практической агентной инфраструктуры.\n\n🔗 Источник: [BBC News: OpenAI Sora Shutdown](https://www.bbc.com/news/articles/c3w3e467ewqo)",
-    "image": "D:\\progekt1\\novosti_temp\\2026-03-29\\sora_shutdown.png",
-    "source_file": "D:\\progekt1\\novosti_temp\\2026-03-29\\news_data.json",
-    "original_news_link": "[BBC News: OpenAI Sora Shutdown](https://www.bbc.com/news/articles/c3w3e467ewqo)"
-  },
-  {
-    "text": "**Индонезия запрещает соцсети для детей до 16 лет: Глобальный прецедент**\n\n* Индонезия первой в Юго-Восточной Азии ввела полный запрет на социальные медиа для несовершеннолетних.\n* Регуляторы требуют внедрения жесткой ИИ-верификации возраста на уровне платформ.\n* Решение продиктовано заботой о психическом здоровье и защитой от цифрового воздействия.\n* Прецедент может запустить волну аналогичных ограничений в других крупных региональных рынках.\n\n🔗 Источник: [Bloomberg Indonesia Ban](https://www.bloomberg.com/news/articles/2026-03-28/indonesia-starts-first-southeast-asia-social-media-ban-for-kids)",
-    "image": "D:\\progekt1\\novosti_temp\\2026-03-29\\indonesia_ban.png",
-    "source_file": "D:\\progekt1\\novosti_temp\\2026-03-29\\news_data.json",
-    "original_news_link": "[Bloomberg Indonesia Ban](https://www.bloomberg.com/news/articles/2026-03-28/indonesia-starts-first-southeast-asia-social-media-ban-for-kids)"
-  },
-  {
-    "text": "**SoftBank $40B: Глобальный фонд для подготовки OpenAI к IPO 2026**\n\n* Сообщество инвесторов во главе с SoftBank выделило рекордный кредит в $40 млрд под экспансию OpenAI.\n* Средства пойдут на строительство суперкластера дата-центров и обеспечение ликвидности перед IPO.\n* SoftBank становится ключевым бенефициаром будущих доходов от глобальной 'ИИ-инфраструктуры'.\n* Это крупнейшая финансовая мобилизация в истории частных технологических компаний.\n\n🔗 Источник: [TechCrunch: SoftBank OpenAI IPO Prep](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/)",
-    "image": "D:\\progekt1\\novosti_temp\\2026-03-29\\softbank_loan.png",
-    "source_file": "D:\\progekt1\\novosti_temp\\2026-03-29\\news_data.json",
-    "original_news_link": "[TechCrunch: SoftBank OpenAI IPO Prep](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/)"
-  },
-  {
-    "text": "**Apple и Google заключили историческое соглашение в сфере ИИ**\n\n* Apple и Google заключили многолетнее соглашение об интеграции ИИ-моделей Gemini в программное обеспечение Apple, включая обновленную версию Siri [4].\n* После тщательного анализа Apple признала технологии Google наиболее подходящей основой для своих базовых моделей Foundation [5].\n* На фоне данной новости акции Alphabet выросли, и рыночная капитализация компании превысила историческую отметку в 4 триллиона долларов [6].\n* Данный шаг нанес серьезный удар по позициям OpenAI, так как пользователи начинают воспринимать Gemini как более совершенную модель [7].\n\n🔗 Источник: [Forbes India](https://www.forbesindia.com/article/news/apple-google-deal-consequences-for-companies-founders-competitors-and-users/2990369/1)",
-    "image": "/home/runner/work/novosti/novosti/2026-03-30/apple_google_deal.png",
-    "source_file": "/home/runner/work/novosti/novosti/2026-03-30/news_data.json",
-    "original_news_link": "[Forbes India](https://www.forbesindia.com/article/news/apple-google-deal-consequences-for-companies-founders-competitors-and-users/2990369/1)"
-  },
-  {
     "text": "**NVIDIA расширяет семейства открытых ИИ-моделей**\n\n* NVIDIA представила мультимодальные модели семейства Nemotron 3 (Ultra, Omni и VoiceChat) для создания продвинутых ИИ-агентов с возможностью общения и логического вывода [8, 9].\n* Для автономных транспортных систем и робототехники выпущены модели Cosmos 3, Isaac GR00T N1.7 и Alpamayo 1.5, оптимизирующие взаимодействие физического ИИ с реальным миром [10].\n* В сфере здравоохранения и биомедицины представлена модель Proteina-Complexa для ускорения разработки лекарственных препаратов и прогнозирования белковых комплексов [11].\n* Новые открытые модели активно внедряются такими компаниями, как ServiceNow, CrowdStrike и LG Electronics [12].\n\n🔗 Источник: [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-expands-open-model-families-to-power-the-next-wave-of-agentic-physical-and-healthcare-ai)",
-    "image": "/home/runner/work/novosti/novosti/2026-03-30/nvidia_open_models.png",
-    "source_file": "/home/runner/work/novosti/novosti/2026-03-30/news_data.json",
+    "image": "2026-03-30/nvidia_open_models.png",
+    "source_file": "2026-03-30/news_data.json",
     "original_news_link": "[NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-expands-open-model-families-to-power-the-next-wave-of-agentic-physical-and-healthcare-ai)"
   },
   {
     "text": "**Google внедряет персональный ИИ Personal Intelligence**\n\n* Компания Google официально запустила ИИ-инструмент Personal Intelligence для всех пользователей на территории США [13].\n* Новая функция позволяет ассистенту Gemini анализировать личные данные из Gmail, Google Photos и других сервисов для предоставления персонализированных ответов [14].\n* Эта экспансия подчеркивает стратегическую ставку Google на глубокую контекстуализацию данных для доминирования на рынке потребительского ИИ [13, 15].\n* Данный шаг представляет собой прямой конкурентный вызов для Microsoft Copilot и продуктов компании Apple [13, 14].\n\n🔗 Источник: [Gotrade](https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple)",
-    "image": "/home/runner/work/novosti/novosti/2026-03-30/google_personal_intelligence.png",
-    "source_file": "/home/runner/work/novosti/novosti/2026-03-30/news_data.json",
+    "image": "2026-03-30/google_personal_intelligence.png",
+    "source_file": "2026-03-30/news_data.json",
     "original_news_link": "[Gotrade](https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple)"
   },
   {
     "text": "**OpenAI представляет ИИ-модели GPT-5.4 Mini and Nano**\n\n* OpenAI анонсировала выпуск эффективных моделей GPT-5.4 mini и nano, специально оптимизированных для написания кода и работы субагентов [16, 17].\n* Модель GPT-5.4 mini работает в два раза быстрее предшественников, приближаясь по производительности к крупным моделям в задачах логического вывода и мультимодального понимания [16].\n* GPT-5.4 nano стала самой компактной и дешевой версией в линейке, идеально подходящей для классификации и извлечения больших объемов данных [17].\n* Обе модели интегрированы в API, редактор Codex и ChatGPT в качестве быстрого резервного варианта для пользователей [18, 19].\n\n🔗 Источник: [OpenAI](https://openai.com/index/introducing-gpt-5-4-mini-and-nano/)",
-    "image": "/home/runner/work/novosti/novosti/2026-03-30/gpt5_mini.png",
-    "source_file": "/home/runner/work/novosti/novosti/2026-03-30/news_data.json",
+    "image": "2026-03-30/gpt5_mini.png",
+    "source_file": "2026-03-30/news_data.json",
     "original_news_link": "[OpenAI](https://openai.com/index/introducing-gpt-5-4-mini-and-nano/)"
   }
 ]

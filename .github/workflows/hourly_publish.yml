@@ -35,6 +35,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add automation/scheduled_posts.json
-          git commit -m "chore: update queue after publication [skip ci]" || echo "No changes to commit"
+          git add -A
+          git commit -m "chore: update queue and news data after publication [skip ci]" || echo "No changes to commit"
           git push
