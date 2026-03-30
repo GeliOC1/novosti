@@ -1,11 +1,5 @@
 [
   {
-    "text": "**NVIDIA расширяет семейства открытых ИИ-моделей**\n\n* NVIDIA представила мультимодальные модели семейства Nemotron 3 (Ultra, Omni и VoiceChat) для создания продвинутых ИИ-агентов с возможностью общения и логического вывода [8, 9].\n* Для автономных транспортных систем и робототехники выпущены модели Cosmos 3, Isaac GR00T N1.7 и Alpamayo 1.5, оптимизирующие взаимодействие физического ИИ с реальным миром [10].\n* В сфере здравоохранения и биомедицины представлена модель Proteina-Complexa для ускорения разработки лекарственных препаратов и прогнозирования белковых комплексов [11].\n* Новые открытые модели активно внедряются такими компаниями, как ServiceNow, CrowdStrike и LG Electronics [12].\n\n🔗 Источник: [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-expands-open-model-families-to-power-the-next-wave-of-agentic-physical-and-healthcare-ai)",
-    "image": "2026-03-30/nvidia_open_models.png",
-    "source_file": "2026-03-30/news_data.json",
-    "original_news_link": "[NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-expands-open-model-families-to-power-the-next-wave-of-agentic-physical-and-healthcare-ai)"
-  },
-  {
     "text": "**Google внедряет персональный ИИ Personal Intelligence**\n\n* Компания Google официально запустила ИИ-инструмент Personal Intelligence для всех пользователей на территории США [13].\n* Новая функция позволяет ассистенту Gemini анализировать личные данные из Gmail, Google Photos и других сервисов для предоставления персонализированных ответов [14].\n* Эта экспансия подчеркивает стратегическую ставку Google на глубокую контекстуализацию данных для доминирования на рынке потребительского ИИ [13, 15].\n* Данный шаг представляет собой прямой конкурентный вызов для Microsoft Copilot и продуктов компании Apple [13, 14].\n\n🔗 Источник: [Gotrade](https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple)",
     "image": "2026-03-30/google_personal_intelligence.png",
     "source_file": "2026-03-30/news_data.json",
