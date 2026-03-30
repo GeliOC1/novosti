@@ -1,15 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30T15:00:00Z",
-    "rating": 8,
-    "title": "Google внедряет персональный ИИ Personal Intelligence",
-    "analysis": "* Компания Google официально запустила ИИ-инструмент Personal Intelligence для всех пользователей на территории США [13].\n* Новая функция позволяет ассистенту Gemini анализировать личные данные из Gmail, Google Photos и других сервисов для предоставления персонализированных ответов [14].\n* Эта экспансия подчеркивает стратегическую ставку Google на глубокую контекстуализацию данных для доминирования на рынке потребительского ИИ [13, 15].\n* Данный шаг представляет собой прямой конкурентный вызов для Microsoft Copilot и продуктов компании Apple [13, 14].",
-    "source": "[Gotrade](https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple)",
-    "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric representation of a glowing digital brain sorting through personal emails and photos. Nano Banana aesthetic: sleek, futuristic, high-contrast blueprint blue and neon-white.",
-    "text": "**Google внедряет персональный ИИ Personal Intelligence**\n\n* Компания Google официально запустила ИИ-инструмент Personal Intelligence для всех пользователей на территории США [13].\n* Новая функция позволяет ассистенту Gemini анализировать личные данные из Gmail, Google Photos и других сервисов для предоставления персонализированных ответов [14].\n* Эта экспансия подчеркивает стратегическую ставку Google на глубокую контекстуализацию данных для доминирования на рынке потребительского ИИ [13, 15].\n* Данный шаг представляет собой прямой конкурентный вызов для Microsoft Copilot и продуктов компании Apple [13, 14].\n\n🔗 Источник: [Gotrade](https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple)",
-    "image": "2026-03-30/google_personal_intelligence.png"
-  },
-  {
     "timestamp": "2026-03-30T16:00:00Z",
     "rating": 8,
     "title": "OpenAI представляет ИИ-модели GPT-5.4 Mini и Nano",
