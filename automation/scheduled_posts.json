@@ -1,11 +1,5 @@
 [
   {
-    "text": "🧬 **Биокомпьютеры выходят из научной фантастики!** DARPA запускает программу O-CIRCUIT. Цель — создать биологические процессоры на базе живых клеток мозга (органоидов) для вычислений на периферии. Это позволит снизить энергопотребление нейросетей в тысячи раз, обеспечив ИИ сверхнизкое потребление энергии. Будущее ИИ может быть не кремниевым, а влажным! 🧫🤖\n\n🔗 Источник: [EverGlade](https://everglade.com/darpas-o-circuit-special-notice-signals-a-new-frontier-in-low-power-biological-computing/)",
-    "image": "2026-03-31/darpa_bio_computer.png",
-    "source_file": "2026-03-31/news_data.json",
-    "original_news_link": "[EverGlade](https://everglade.com/darpas-o-circuit-special-notice-signals-a-new-frontier-in-low-power-biological-computing/)"
-  },
-  {
     "text": "🛰 **Космические дата-центры для ИИ!** Blue Origin подала заявку в FCC на Project Sunrise — сеть из 51 600 спутников. Но это не просто интернет: спутники станут орбитальными дата-центрами, чтобы справиться с колоссальным энергопотреблением земного ИИ. Брошен прямой вызов SpaceX. Начинается орбитальная ИИ-гонка! 🚀💻\n\n🔗 Источник: [HotHardware](https://hothardware.com/news/blue-origin-to-challenge-spacex-in-data-center-race-in-space)",
     "image": "2026-03-31/blue_origin_sunrise.png",
     "source_file": "2026-03-31/news_data.json",
@@ -40,5 +34,11 @@
     "image": "2026-03-31/arxiv_milestone.png",
     "source_file": "2026-03-31/news_data.json",
     "original_news_link": "[Medium](https://lightcapai.medium.com/the-event-horizon-of-knowledge-why-3-million-arxiv-papers-are-a-warning-signal-48fc9b74fb33)"
+  },
+  {
+    "text": "🔐 **Квантовый интернет становится реальностью!** 30 марта QCi официально подключила квантовую оптимизационную машину Dirac-3 к первой в Северной Америке межштатной квантово-защищенной сети Quantum Corridor. Уникальная система работает на базе квантовой оптики и фотоники. Эпоха коммерческого квантового шифрования и вычислений стартовала — будущее логистики и кибербезопасности изменится навсегда. 🌐🛡️\n\n🔗 Источник: [PR Newswire](https://www.prnewswire.com/news-releases/qci-quantum-optimization-machine-placed-on-quantum-corridor-network-302727709.html)",
+    "image": "2026-03-31/quantum_corridor.png",
+    "source_file": "2026-03-31/news_data.json",
+    "original_news_link": "[PR Newswire](https://www.prnewswire.com/news-releases/qci-quantum-optimization-machine-placed-on-quantum-corridor-network-302727709.html)"
   }
 ]
