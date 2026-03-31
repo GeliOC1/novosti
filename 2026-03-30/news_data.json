@@ -1,15 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30T14:00:00Z",
-    "rating": 9,
-    "title": "NVIDIA расширяет семейства открытых ИИ-моделей",
-    "analysis": "* NVIDIA представила мультимодальные модели семейства Nemotron 3 (Ultra, Omni и VoiceChat) для создания продвинутых ИИ-агентов с возможностью общения и логического вывода [8, 9].\n* Для автономных транспортных систем и робототехники выпущены модели Cosmos 3, Isaac GR00T N1.7 и Alpamayo 1.5, оптимизирующие взаимодействие физического ИИ с реальным миром [10].\n* В сфере здравоохранения и биомедицины представлена модель Proteina-Complexa для ускорения разработки лекарственных препаратов и прогнозирования белковых комплексов [11].\n* Новые открытые модели активно внедряются такими компаниями, как ServiceNow, CrowdStrike и LG Electronics [12].",
-    "source": "[NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-expands-open-model-families-to-power-the-next-wave-of-agentic-physical-and-healthcare-ai)",
-    "image_prompt": "Blueprint-Techno-Minimalism: 3D isometric representation of an AI processor connecting to a robotic arm and a DNA helix. Nano Banana aesthetic: sleek, futuristic, high-contrast blueprint blue and neon-white.",
-    "text": "**NVIDIA расширяет семейства открытых ИИ-моделей**\n\n* NVIDIA представила мультимодальные модели семейства Nemotron 3 (Ultra, Omni и VoiceChat) для создания продвинутых ИИ-агентов с возможностью общения и логического вывода [8, 9].\n* Для автономных транспортных систем и робототехники выпущены модели Cosmos 3, Isaac GR00T N1.7 и Alpamayo 1.5, оптимизирующие взаимодействие физического ИИ с реальным миром [10].\n* В сфере здравоохранения и биомедицины представлена модель Proteina-Complexa для ускорения разработки лекарственных препаратов и прогнозирования белковых комплексов [11].\n* Новые открытые модели активно внедряются такими компаниями, как ServiceNow, CrowdStrike и LG Electronics [12].\n\n🔗 Источник: [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-expands-open-model-families-to-power-the-next-wave-of-agentic-physical-and-healthcare-ai)",
-    "image": "2026-03-30/nvidia_open_models.png"
-  },
-  {
     "timestamp": "2026-03-30T15:00:00Z",
     "rating": 8,
     "title": "Google внедряет персональный ИИ Personal Intelligence",
